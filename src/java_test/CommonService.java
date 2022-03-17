@@ -5,6 +5,7 @@ public class CommonService {
 		
 		System.out.println("공통기능 넣어주세요");
 		System.out.println("a-branch 공통기능 넣어주세요");
+		System.out.println("b_branch 공통기능 추가");
 		
 		
 	}
